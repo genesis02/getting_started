@@ -1,2 +1,3 @@
 # getting_started
-Learning Github
+Learning Github 
+Using it to get hands on experience on Github
